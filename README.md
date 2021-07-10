@@ -1,4 +1,3 @@
-# Resume
 # _Venkat Naidu Rama_
 # Personal Details
  _Name_    : Venkat Naidu. Rama <Br>
