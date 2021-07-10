@@ -1,6 +1,6 @@
-# Apssdc_UETP # Resume
- # _Venkat Naidu Rama_
- # personal Details
+# Resume
+# _Venkat Naidu Rama_
+# Personal Details
  _Name_    : Venkat Naidu. Rama <Br>
  _Mail.id_ : rvenkatnaidu999@gmail.com <Br>
  _phone No_ : 8333844103 <Br>
@@ -13,9 +13,9 @@ _Father Name_ : Gurappa <Br>
 _Mother Name_ : Ravanamma <Br>
 _Nationality_ : Indian <Br>
   #### Education Details
- ##_M.S.C on still Perceiving**_ <Br>
+ ##_MTech on still Pursuing**_ <Br>
 
-_DEGREE_ _BSC_ <Br>
+_DEGREE_ _BCom_ <Br>
   •College Name : G.I.T.A.M <Br>
   •Branch       : Vizag <Br>
   •Year Of Pass : 2022 <Br>
